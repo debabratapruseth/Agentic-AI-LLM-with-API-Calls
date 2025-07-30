@@ -3,10 +3,10 @@
 This project demonstrates how to build a smart **Weather Agent** using **OpenAI's GPT-4** and real-time data from **WeatherAPI** to answer weather-related questions.
 
 🧑‍🏫 Designed for beginner Python learners, this project teaches:
-- ✅ Function calling with OpenAI
-- ✅ Real-time API usage (WeatherAPI)
-- ✅ Secure credential handling in Google Colab
-- ✅ Python function design and error handling
+1. Function calling with OpenAI
+2. Real-time API usage (WeatherAPI)
+3. Secure credential handling in Google Colab
+4. Python function design and error handling
 
 ---
 
