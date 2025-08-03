@@ -1,16 +1,15 @@
-# 🌤️ Weather Agent with OpenAI & WeatherAPI
+# Weather Agent with OpenAI & WeatherAPI
 
 This project demonstrates how to build a smart **Weather Agent** using **OpenAI's GPT-4** and real-time data from **WeatherAPI** to answer weather-related questions.
 
-🧑‍🏫 Designed for beginner Python learners, this project teaches:
+Designed for beginner Python learners, this project teaches:
 1. Function calling with OpenAI
 2. Real-time API usage (WeatherAPI)
-3. Secure credential handling in Google Colab
 4. Python function design and error handling
 
 ---
 
-## 🧠 How It Works
+## How It Works
 
 
 1. The user types a natural question (e.g., "Is it raining in New York?")
@@ -22,7 +21,7 @@ This project demonstrates how to build a smart **Weather Agent** using **OpenAI'
 ---
 
 
-## 🧠 Educational Goals
+## Educational Goals
 This project helps students:
 
 1. Understand LLM tool use / function-calling
@@ -32,7 +31,7 @@ This project helps students:
 
 ---
 
-## 🔮 Future Improvements
+## Future Improvements
 
 1. Add a Gradio or Streamlit UI for non-technical users
 2. Handle more edge cases and API failures gracefully
@@ -40,5 +39,17 @@ This project helps students:
 
 ---
 
-## 📄 License
+## License
 This project is open-source under the MIT License.
+
+---
+
+# Blog Post
+
+Blog URL : https://debabratapruseth.com/agentic-ai-llm-with-api-calls-beginner-bootcamp/
+
+Website : https://debabratapruseth.com/
+
+---
+
+👋 If you find this helpful, don't forget to ⭐ the repo and follow for more beginner-friendly AI projects!
